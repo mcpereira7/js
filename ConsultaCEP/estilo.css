@@ -1,0 +1,17 @@
+#conCEP{
+    width: 20em;
+    height: 20em;
+    position: relative;
+    margin-top: 10em;
+    margin-left: 40%;
+    padding: 20px;
+    background-color: beige;
+}
+#conCEP form{
+    position: absolute;
+    display: block;
+}
+#conCEP input{
+    
+    float: right;
+}
